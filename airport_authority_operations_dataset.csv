@@ -1,0 +1,401 @@
+Flight_ID,Date,Airline,Destination,Arrival_Delay_Minutes,Departure_Delay_Minutes,Passengers,Ground_Operation_Time_Minutes,Passenger_Feedback_Score
+1,22-03-2024,IndiGo,Delhi,70,62,107,37,3.9
+2,27-03-2024,IndiGo,Chennai,108,8,57,31,1.9
+3,05-03-2024,IndiGo,Chennai,50,166,229,89,2.7
+4,27-02-2024,SpiceJet,Delhi,40,178,158,63,2.1
+5,28-01-2024,SpiceJet,Delhi,23,97,74,65,4.4
+6,18-03-2024,SpiceJet,Delhi,117,137,81,68,1.3
+7,07-02-2024,SpiceJet,Chennai,49,180,67,25,3.6
+8,08-04-2024,SpiceJet,Delhi,59,25,147,55,2.8
+9,16-04-2024,SpiceJet,Mumbai,94,90,103,54,3.8
+10,28-03-2024,IndiGo,Chennai,162,43,186,51,1.7
+11,18-02-2024,SpiceJet,Chennai,56,175,133,27,1.9
+12,05-01-2024,SpiceJet,Hyderabad,68,16,104,60,1.9
+13,04-03-2024,Vistara,Hyderabad,36,67,85,51,4
+14,09-03-2024,SpiceJet,Chennai,109,149,152,66,1.9
+15,18-01-2024,Vistara,Delhi,12,28,89,40,4.2
+16,24-02-2024,IndiGo,Hyderabad,97,152,169,87,2
+17,11-03-2024,IndiGo,Delhi,174,137,242,54,4.1
+18,13-02-2024,IndiGo,Bangalore,111,40,166,20,4.8
+19,22-04-2024,SpiceJet,Chennai,45,129,77,58,4.4
+20,05-03-2024,Air India,Mumbai,95,41,188,87,4.7
+21,17-03-2024,SpiceJet,Hyderabad,4,28,142,59,2
+22,31-01-2024,IndiGo,Delhi,124,17,244,88,4.1
+23,17-01-2024,Vistara,Chennai,42,67,185,74,4.9
+24,28-04-2024,Air India,Bangalore,102,171,216,67,2.8
+25,07-03-2024,Vistara,Delhi,63,57,66,63,1.1
+26,11-03-2024,Air India,Chennai,56,1,68,27,1.9
+27,25-04-2024,IndiGo,Bangalore,18,131,110,55,3.7
+28,28-01-2024,Air India,Chennai,147,121,112,80,4.2
+29,25-01-2024,IndiGo,Delhi,168,110,140,74,2.6
+30,20-04-2024,IndiGo,Delhi,15,103,236,63,4.2
+31,14-01-2024,Air India,Mumbai,48,137,164,37,2.7
+32,05-02-2024,Vistara,Mumbai,19,113,190,32,1.2
+33,10-03-2024,IndiGo,Delhi,60,42,154,82,2.9
+34,20-04-2024,Vistara,Delhi,42,97,50,69,2.1
+35,10-04-2024,Vistara,Bangalore,108,178,237,82,1.6
+36,07-02-2024,Air India,Delhi,148,138,65,60,1.2
+37,15-03-2024,Vistara,Chennai,135,40,64,85,1.3
+38,24-01-2024,IndiGo,Chennai,17,172,110,71,1.5
+39,23-04-2024,Air India,Chennai,152,10,208,30,2.7
+40,15-03-2024,SpiceJet,Bangalore,52,171,233,60,2
+41,20-02-2024,Air India,Bangalore,117,80,242,29,1
+42,20-03-2024,IndiGo,Delhi,137,54,179,53,1.5
+43,14-02-2024,IndiGo,Mumbai,94,72,90,76,4.3
+44,31-03-2024,SpiceJet,Chennai,167,135,52,90,2.2
+45,25-03-2024,IndiGo,Mumbai,67,29,77,90,1.6
+46,06-02-2024,Air India,Bangalore,52,175,212,53,3
+47,02-02-2024,IndiGo,Delhi,162,108,120,25,1
+48,08-04-2024,Air India,Bangalore,41,113,191,74,3.2
+49,15-01-2024,IndiGo,Mumbai,139,9,144,90,1.6
+50,17-01-2024,IndiGo,Bangalore,93,10,141,46,3.7
+51,26-03-2024,IndiGo,Bangalore,143,104,208,39,4.7
+52,31-01-2024,Air India,Mumbai,105,6,95,62,4.1
+53,22-02-2024,Air India,Bangalore,40,179,77,68,4.5
+54,19-04-2024,Vistara,Mumbai,51,117,139,59,4.3
+55,21-04-2024,Air India,Mumbai,6,168,99,71,2.3
+56,20-04-2024,IndiGo,Bangalore,89,164,180,71,3.7
+57,17-04-2024,SpiceJet,Delhi,29,66,95,53,1.2
+58,17-03-2024,Vistara,Bangalore,80,111,205,85,1.5
+59,25-04-2024,Air India,Bangalore,11,111,50,86,4.7
+60,09-03-2024,Air India,Bangalore,110,17,220,62,3.5
+61,25-03-2024,IndiGo,Bangalore,129,79,220,72,2.3
+62,30-03-2024,SpiceJet,Chennai,32,49,157,68,3.7
+63,25-04-2024,Air India,Chennai,145,77,153,90,4.3
+64,08-02-2024,SpiceJet,Mumbai,110,148,205,61,2.9
+65,26-02-2024,Air India,Chennai,121,43,218,30,2.1
+66,25-03-2024,SpiceJet,Delhi,60,172,129,48,4.2
+67,19-01-2024,IndiGo,Delhi,62,121,206,29,2.8
+68,23-04-2024,Air India,Hyderabad,126,102,112,38,3.6
+69,01-01-2024,IndiGo,Hyderabad,56,45,228,86,2.9
+70,12-03-2024,Air India,Delhi,116,34,168,87,5
+71,17-03-2024,SpiceJet,Hyderabad,156,129,159,90,2.8
+72,21-01-2024,Vistara,Hyderabad,66,63,213,55,4.1
+73,07-03-2024,Vistara,Mumbai,70,112,69,56,1.9
+74,12-02-2024,SpiceJet,Chennai,20,35,88,49,2.5
+75,20-01-2024,Air India,Delhi,106,104,134,89,2.9
+76,08-01-2024,Air India,Hyderabad,99,149,228,22,4.4
+77,07-04-2024,Vistara,Hyderabad,1,90,126,69,4.4
+78,16-04-2024,Vistara,Chennai,139,154,106,82,1.9
+79,25-02-2024,Vistara,Delhi,99,86,221,71,3.9
+80,17-04-2024,Vistara,Mumbai,159,136,56,70,3.4
+81,25-03-2024,IndiGo,Delhi,164,109,84,79,1.7
+82,03-02-2024,Vistara,Bangalore,54,116,133,63,4
+83,18-02-2024,SpiceJet,Hyderabad,64,20,170,22,4
+84,07-01-2024,SpiceJet,Mumbai,166,17,249,25,4
+85,01-02-2024,Air India,Delhi,159,39,111,36,2.9
+86,15-01-2024,Air India,Hyderabad,179,65,246,67,1.7
+87,18-03-2024,IndiGo,Mumbai,79,27,198,23,4.7
+88,14-03-2024,Vistara,Hyderabad,50,19,201,51,1.4
+89,08-04-2024,SpiceJet,Chennai,30,144,250,25,2.4
+90,24-02-2024,SpiceJet,Delhi,129,165,137,21,4.4
+91,15-04-2024,Vistara,Delhi,110,92,212,78,3.8
+92,25-02-2024,Air India,Chennai,166,69,207,88,4.1
+93,29-02-2024,Vistara,Chennai,68,82,112,31,2.1
+94,27-02-2024,Air India,Hyderabad,145,156,221,68,2.3
+95,04-03-2024,SpiceJet,Mumbai,124,54,140,53,2.4
+96,22-04-2024,SpiceJet,Chennai,2,132,98,30,2
+97,22-02-2024,Vistara,Chennai,61,176,171,82,2.8
+98,03-01-2024,IndiGo,Bangalore,56,103,227,51,2.2
+99,15-03-2024,SpiceJet,Hyderabad,141,135,138,74,5
+100,11-03-2024,SpiceJet,Bangalore,179,116,119,59,2
+101,16-01-2024,Air India,Bangalore,30,137,245,43,1.8
+102,04-04-2024,Vistara,Bangalore,150,134,202,56,4.9
+103,16-04-2024,Air India,Bangalore,58,92,95,58,1.1
+104,09-03-2024,Air India,Bangalore,11,13,191,57,3.8
+105,17-01-2024,Vistara,Delhi,3,146,122,80,2.9
+106,13-02-2024,Air India,Delhi,64,122,79,28,2.6
+107,10-01-2024,IndiGo,Mumbai,38,144,127,30,5
+108,16-01-2024,Vistara,Chennai,152,158,107,86,2.5
+109,26-04-2024,Vistara,Bangalore,150,109,128,27,3.4
+110,04-04-2024,IndiGo,Mumbai,160,54,117,30,1.6
+111,23-01-2024,IndiGo,Mumbai,0,104,165,80,2.2
+112,30-01-2024,SpiceJet,Bangalore,179,116,68,49,4.7
+113,10-04-2024,Air India,Hyderabad,29,139,107,39,4.6
+114,15-04-2024,Air India,Delhi,15,42,128,56,2.8
+115,29-02-2024,SpiceJet,Hyderabad,69,128,188,83,2.8
+116,17-03-2024,IndiGo,Hyderabad,82,154,114,23,1.4
+117,27-03-2024,IndiGo,Bangalore,147,10,245,42,2.9
+118,24-03-2024,Vistara,Bangalore,46,149,161,82,4.9
+119,01-03-2024,SpiceJet,Hyderabad,85,82,221,33,4.4
+120,12-02-2024,Vistara,Hyderabad,73,169,152,90,1.1
+121,12-01-2024,SpiceJet,Bangalore,82,29,247,71,4.5
+122,15-04-2024,IndiGo,Chennai,118,105,63,44,3.1
+123,20-03-2024,Vistara,Hyderabad,13,52,118,90,1.5
+124,06-02-2024,Vistara,Hyderabad,31,7,211,50,3.8
+125,09-02-2024,IndiGo,Chennai,104,23,107,34,2.8
+126,16-01-2024,Air India,Hyderabad,74,130,230,54,2.7
+127,02-03-2024,Vistara,Mumbai,116,141,87,69,1.8
+128,17-03-2024,Air India,Delhi,70,106,137,84,2.1
+129,01-01-2024,SpiceJet,Bangalore,150,148,218,82,4.5
+130,27-02-2024,Vistara,Bangalore,85,141,245,89,2.5
+131,29-04-2024,SpiceJet,Mumbai,178,61,196,69,1.9
+132,09-04-2024,Vistara,Delhi,81,121,230,68,2.5
+133,25-03-2024,Air India,Hyderabad,9,32,178,62,4.5
+134,21-04-2024,Vistara,Delhi,134,116,53,38,2.6
+135,24-03-2024,Air India,Delhi,120,67,136,70,3.6
+136,19-04-2024,SpiceJet,Chennai,97,81,210,82,4.5
+137,05-01-2024,IndiGo,Mumbai,161,175,123,49,4
+138,25-02-2024,IndiGo,Delhi,113,42,227,58,4.6
+139,06-01-2024,SpiceJet,Delhi,75,91,145,75,1.6
+140,08-03-2024,Vistara,Chennai,174,46,93,42,1.3
+141,21-04-2024,Vistara,Chennai,174,61,177,38,1.9
+142,22-03-2024,SpiceJet,Hyderabad,65,170,52,79,4.6
+143,27-03-2024,Air India,Delhi,113,88,200,58,3.6
+144,24-02-2024,SpiceJet,Hyderabad,77,50,148,81,1.4
+145,18-02-2024,SpiceJet,Chennai,75,179,125,22,4.9
+146,25-03-2024,Vistara,Bangalore,2,144,225,26,4.6
+147,05-04-2024,Vistara,Bangalore,58,155,140,48,3.5
+148,20-03-2024,SpiceJet,Mumbai,160,24,210,25,2.2
+149,26-02-2024,IndiGo,Chennai,93,33,73,57,2.3
+150,23-02-2024,Air India,Mumbai,33,138,143,87,3
+151,04-02-2024,Air India,Bangalore,123,75,241,63,4.2
+152,29-02-2024,IndiGo,Mumbai,57,173,235,70,4.9
+153,12-04-2024,SpiceJet,Delhi,101,3,117,88,1.5
+154,17-02-2024,SpiceJet,Chennai,97,163,145,33,3.7
+155,01-03-2024,IndiGo,Chennai,143,83,206,48,3.6
+156,22-03-2024,Vistara,Bangalore,166,104,79,37,1.2
+157,05-01-2024,SpiceJet,Hyderabad,29,24,110,88,1.5
+158,28-02-2024,SpiceJet,Chennai,107,150,240,39,4.5
+159,24-03-2024,IndiGo,Hyderabad,157,104,121,24,3.8
+160,28-01-2024,Vistara,Hyderabad,60,92,75,67,3.2
+161,23-03-2024,SpiceJet,Delhi,101,70,98,35,4.8
+162,15-04-2024,Vistara,Delhi,169,54,214,22,1.2
+163,12-02-2024,Air India,Mumbai,144,52,67,90,1.8
+164,28-01-2024,Air India,Bangalore,37,152,50,55,4.4
+165,19-01-2024,Air India,Chennai,64,44,78,23,1.5
+166,15-02-2024,Air India,Chennai,82,4,94,53,1.2
+167,04-04-2024,Vistara,Chennai,29,16,171,77,4.1
+168,06-03-2024,IndiGo,Hyderabad,128,56,207,25,3.9
+169,26-04-2024,SpiceJet,Hyderabad,164,7,65,81,4.4
+170,24-02-2024,IndiGo,Hyderabad,113,18,70,61,3.4
+171,09-01-2024,Air India,Bangalore,159,162,199,90,3.8
+172,18-02-2024,SpiceJet,Hyderabad,129,154,160,32,4.2
+173,15-01-2024,Air India,Hyderabad,115,58,155,63,4.3
+174,21-02-2024,Vistara,Delhi,80,109,130,52,2.5
+175,20-01-2024,Vistara,Delhi,23,21,73,75,1.4
+176,04-04-2024,SpiceJet,Mumbai,142,15,200,62,3.7
+177,22-02-2024,SpiceJet,Hyderabad,13,73,203,59,2.4
+178,14-03-2024,Air India,Mumbai,168,123,107,33,2.4
+179,12-03-2024,SpiceJet,Delhi,71,146,107,74,4.4
+180,08-04-2024,IndiGo,Chennai,168,177,118,23,1.7
+181,30-03-2024,SpiceJet,Bangalore,89,1,96,38,3.3
+182,21-02-2024,IndiGo,Mumbai,162,7,73,87,1.9
+183,23-02-2024,Vistara,Bangalore,40,94,129,61,4.1
+184,13-03-2024,IndiGo,Delhi,39,40,243,26,3.7
+185,04-02-2024,Vistara,Hyderabad,124,155,163,73,2.1
+186,06-04-2024,IndiGo,Bangalore,110,28,122,82,3.1
+187,09-02-2024,IndiGo,Mumbai,101,153,64,20,1.8
+188,28-01-2024,Air India,Bangalore,74,83,80,20,3
+189,25-02-2024,Air India,Mumbai,97,136,230,49,3
+190,16-04-2024,SpiceJet,Delhi,101,10,161,22,2.8
+191,10-01-2024,SpiceJet,Chennai,109,146,153,73,2.2
+192,21-02-2024,IndiGo,Bangalore,43,158,167,66,1.4
+193,18-04-2024,IndiGo,Mumbai,111,150,152,87,1.3
+194,21-04-2024,SpiceJet,Bangalore,56,85,249,41,1.3
+195,22-03-2024,IndiGo,Chennai,130,49,248,64,2.4
+196,14-04-2024,Air India,Mumbai,26,37,115,45,1.7
+197,20-01-2024,IndiGo,Mumbai,160,126,168,77,3.7
+198,22-04-2024,SpiceJet,Bangalore,38,112,67,80,2.8
+199,08-02-2024,SpiceJet,Chennai,14,90,179,29,2.2
+200,27-02-2024,IndiGo,Delhi,94,73,69,31,3.5
+201,05-03-2024,Vistara,Hyderabad,148,141,239,25,2.8
+202,13-04-2024,Air India,Bangalore,154,121,178,39,4.8
+203,27-02-2024,IndiGo,Bangalore,21,129,215,42,1.2
+204,31-03-2024,Vistara,Hyderabad,134,133,206,40,2.5
+205,27-04-2024,SpiceJet,Hyderabad,104,86,223,26,4.2
+206,23-03-2024,SpiceJet,Delhi,84,24,192,69,2.1
+207,02-04-2024,Air India,Bangalore,20,149,219,38,4.7
+208,09-02-2024,Vistara,Mumbai,152,21,129,68,3.6
+209,12-02-2024,Air India,Chennai,23,165,221,74,3
+210,03-01-2024,SpiceJet,Bangalore,46,54,137,82,1.8
+211,18-01-2024,Air India,Delhi,75,25,179,89,4.3
+212,23-04-2024,IndiGo,Bangalore,158,33,202,68,1.6
+213,24-01-2024,Air India,Hyderabad,11,105,143,50,4.9
+214,19-03-2024,SpiceJet,Hyderabad,59,136,111,59,4.9
+215,10-04-2024,Vistara,Mumbai,94,173,196,76,2.8
+216,06-02-2024,Vistara,Chennai,135,107,91,45,4.2
+217,18-01-2024,SpiceJet,Delhi,164,123,145,90,4.7
+218,01-04-2024,IndiGo,Bangalore,21,41,119,77,4.6
+219,19-01-2024,Vistara,Delhi,56,115,139,23,2.7
+220,20-02-2024,SpiceJet,Mumbai,98,20,145,48,1.1
+221,29-04-2024,IndiGo,Bangalore,37,35,59,56,4.7
+222,01-03-2024,Air India,Hyderabad,114,157,51,30,1.1
+223,28-01-2024,Air India,Chennai,155,135,158,34,4.1
+224,31-01-2024,SpiceJet,Delhi,12,61,157,78,1.3
+225,17-04-2024,Vistara,Chennai,137,4,211,85,3.3
+226,01-04-2024,Air India,Bangalore,109,0,207,65,2
+227,23-02-2024,Air India,Delhi,134,92,67,87,3.2
+228,10-04-2024,IndiGo,Hyderabad,120,11,212,69,4.9
+229,02-02-2024,IndiGo,Bangalore,17,88,111,33,4.1
+230,04-04-2024,SpiceJet,Mumbai,11,90,189,63,4.3
+231,23-01-2024,Vistara,Hyderabad,161,46,84,28,3.9
+232,30-04-2024,Vistara,Delhi,75,51,61,45,4.5
+233,10-02-2024,SpiceJet,Chennai,101,139,171,52,1.1
+234,23-03-2024,Air India,Bangalore,91,12,217,62,2.1
+235,12-04-2024,SpiceJet,Hyderabad,102,112,148,63,4.9
+236,04-03-2024,Vistara,Bangalore,132,68,71,74,1.3
+237,18-03-2024,Air India,Chennai,75,82,76,30,2.3
+238,07-02-2024,SpiceJet,Hyderabad,154,109,92,76,2.4
+239,06-01-2024,SpiceJet,Chennai,111,70,213,27,1.3
+240,22-03-2024,Vistara,Bangalore,131,173,90,23,1.6
+241,18-03-2024,Vistara,Delhi,32,17,110,66,2.4
+242,13-03-2024,IndiGo,Chennai,39,173,165,67,2.5
+243,07-04-2024,IndiGo,Chennai,35,135,143,70,2.3
+244,05-02-2024,Air India,Delhi,6,47,177,86,2.5
+245,12-03-2024,IndiGo,Bangalore,66,180,164,47,5
+246,06-02-2024,Vistara,Mumbai,31,34,68,77,1.7
+247,01-04-2024,Vistara,Delhi,174,81,220,64,3.8
+248,11-03-2024,SpiceJet,Bangalore,40,179,213,42,4.2
+249,06-03-2024,Air India,Delhi,51,35,110,83,1.1
+250,11-03-2024,SpiceJet,Hyderabad,141,33,206,31,1.3
+251,20-02-2024,Vistara,Chennai,105,104,197,29,1.5
+252,10-02-2024,IndiGo,Hyderabad,119,174,182,64,1.5
+253,16-04-2024,Air India,Mumbai,110,128,64,35,3.1
+254,08-02-2024,Air India,Mumbai,82,57,138,86,4.6
+255,18-04-2024,IndiGo,Bangalore,50,162,191,55,1.5
+256,08-02-2024,IndiGo,Chennai,164,43,201,39,1.7
+257,20-03-2024,SpiceJet,Chennai,10,7,70,25,4.8
+258,08-04-2024,SpiceJet,Mumbai,146,106,208,23,3
+259,21-03-2024,SpiceJet,Bangalore,123,62,225,71,2.2
+260,10-01-2024,IndiGo,Mumbai,112,106,173,79,1.8
+261,18-03-2024,Air India,Bangalore,81,88,152,36,4
+262,06-03-2024,IndiGo,Bangalore,61,119,81,54,2.8
+263,19-01-2024,IndiGo,Delhi,74,98,207,73,2
+264,20-04-2024,Air India,Bangalore,147,80,98,40,3
+265,06-03-2024,Vistara,Hyderabad,78,127,55,31,4.8
+266,05-03-2024,Vistara,Mumbai,55,149,140,26,1.2
+267,04-03-2024,Vistara,Bangalore,137,2,77,75,1.5
+268,03-02-2024,SpiceJet,Hyderabad,93,11,152,26,3.3
+269,25-01-2024,SpiceJet,Chennai,73,18,148,84,2.8
+270,11-03-2024,SpiceJet,Chennai,174,156,80,36,4.9
+271,20-02-2024,SpiceJet,Bangalore,142,93,243,38,1.8
+272,06-03-2024,Vistara,Chennai,10,11,59,37,3.9
+273,12-04-2024,Vistara,Chennai,116,38,205,85,1.6
+274,29-04-2024,SpiceJet,Mumbai,100,157,239,58,3.4
+275,05-03-2024,Vistara,Chennai,76,121,54,67,2.3
+276,15-01-2024,Vistara,Chennai,78,176,211,23,3.4
+277,03-02-2024,Air India,Delhi,149,122,93,87,3.5
+278,20-03-2024,Vistara,Mumbai,174,62,58,34,1.8
+279,26-02-2024,SpiceJet,Hyderabad,38,105,226,46,2.6
+280,09-04-2024,Vistara,Delhi,180,35,182,46,3.2
+281,25-03-2024,Vistara,Chennai,96,80,94,78,4.6
+282,13-02-2024,SpiceJet,Bangalore,156,123,99,51,2.1
+283,08-02-2024,Air India,Bangalore,73,180,103,82,2.3
+284,14-02-2024,SpiceJet,Bangalore,31,146,223,89,2.5
+285,20-02-2024,SpiceJet,Mumbai,74,10,123,30,2.4
+286,26-02-2024,SpiceJet,Hyderabad,54,51,187,54,4.7
+287,30-03-2024,SpiceJet,Mumbai,27,157,239,50,2
+288,26-03-2024,Air India,Mumbai,13,25,155,62,3.9
+289,13-01-2024,Air India,Delhi,140,40,154,80,2.9
+290,26-01-2024,SpiceJet,Bangalore,73,165,65,31,3.6
+291,30-01-2024,IndiGo,Mumbai,106,45,59,70,4.2
+292,24-01-2024,SpiceJet,Delhi,2,76,195,33,4.7
+293,12-02-2024,SpiceJet,Hyderabad,164,139,184,83,4.6
+294,18-01-2024,Vistara,Bangalore,49,28,134,40,3.9
+295,23-03-2024,SpiceJet,Mumbai,3,86,125,44,1.7
+296,19-04-2024,Vistara,Hyderabad,131,83,72,71,3.7
+297,24-01-2024,Air India,Hyderabad,82,63,51,53,2.5
+298,27-02-2024,SpiceJet,Bangalore,77,149,235,21,2
+299,16-02-2024,Air India,Delhi,170,30,169,59,1.6
+300,28-03-2024,SpiceJet,Delhi,163,75,144,48,1.9
+301,18-01-2024,Vistara,Mumbai,116,155,145,73,3.8
+302,26-04-2024,Vistara,Chennai,170,55,245,51,3.7
+303,17-03-2024,IndiGo,Chennai,114,135,230,66,1.3
+304,13-03-2024,IndiGo,Delhi,140,129,101,88,1.6
+305,11-02-2024,Vistara,Delhi,174,52,233,82,1.4
+306,06-03-2024,Vistara,Delhi,116,33,181,73,2.8
+307,08-01-2024,Vistara,Bangalore,5,101,115,20,4
+308,15-03-2024,IndiGo,Delhi,108,88,229,28,3.2
+309,08-01-2024,IndiGo,Hyderabad,8,73,154,43,4.1
+310,08-04-2024,Vistara,Bangalore,97,114,146,68,1.3
+311,25-03-2024,Air India,Bangalore,30,45,187,70,3.1
+312,03-04-2024,Air India,Delhi,5,76,168,89,2.7
+313,18-02-2024,Air India,Mumbai,117,88,89,55,1.8
+314,22-04-2024,IndiGo,Delhi,169,107,207,22,2
+315,09-01-2024,IndiGo,Chennai,8,114,203,26,2
+316,06-01-2024,Vistara,Hyderabad,59,138,105,27,1.6
+317,07-02-2024,Air India,Chennai,81,147,203,61,1.9
+318,22-04-2024,Air India,Chennai,56,105,126,55,1.2
+319,16-03-2024,Air India,Hyderabad,142,126,62,64,4.8
+320,26-03-2024,Vistara,Chennai,81,178,156,72,1.6
+321,18-02-2024,Air India,Chennai,121,61,107,58,4.4
+322,19-01-2024,Vistara,Delhi,143,105,156,87,1.5
+323,01-02-2024,SpiceJet,Mumbai,84,165,70,77,4.4
+324,12-01-2024,Air India,Delhi,68,96,222,25,4.5
+325,25-01-2024,Air India,Hyderabad,53,85,127,21,1.8
+326,25-01-2024,IndiGo,Hyderabad,62,178,204,46,2.6
+327,31-01-2024,SpiceJet,Bangalore,97,119,186,65,2.2
+328,16-02-2024,Vistara,Hyderabad,25,120,244,60,4.7
+329,17-02-2024,SpiceJet,Hyderabad,11,144,106,38,1.1
+330,11-03-2024,Vistara,Bangalore,39,50,134,49,2.5
+331,16-04-2024,Air India,Hyderabad,140,167,225,63,2
+332,15-04-2024,Vistara,Hyderabad,117,43,237,65,1.7
+333,02-04-2024,Vistara,Mumbai,138,164,65,87,1.1
+334,18-04-2024,IndiGo,Delhi,1,105,85,49,1.3
+335,20-01-2024,IndiGo,Mumbai,129,116,145,27,3.5
+336,26-03-2024,Vistara,Hyderabad,4,1,186,90,2.6
+337,03-01-2024,SpiceJet,Chennai,73,4,178,75,4.2
+338,26-04-2024,Air India,Delhi,24,134,88,50,1.8
+339,08-03-2024,SpiceJet,Bangalore,68,101,70,67,4.8
+340,28-02-2024,Air India,Mumbai,76,175,70,24,1.4
+341,18-02-2024,Vistara,Chennai,121,14,213,21,3.8
+342,11-01-2024,Vistara,Hyderabad,165,84,194,32,4.6
+343,27-04-2024,IndiGo,Mumbai,54,177,195,80,2.1
+344,28-04-2024,IndiGo,Bangalore,139,144,218,24,1.7
+345,18-04-2024,SpiceJet,Delhi,53,150,86,70,4.7
+346,08-02-2024,Air India,Chennai,61,145,149,89,2.3
+347,06-04-2024,Air India,Delhi,128,88,63,32,2.7
+348,17-04-2024,IndiGo,Bangalore,154,157,202,70,4.9
+349,11-02-2024,IndiGo,Bangalore,115,125,108,65,3.2
+350,18-02-2024,Vistara,Mumbai,174,149,219,68,1.3
+351,20-03-2024,SpiceJet,Mumbai,18,21,118,39,2.5
+352,10-04-2024,Air India,Hyderabad,81,92,77,31,1
+353,09-02-2024,Vistara,Bangalore,69,26,83,31,1.7
+354,27-02-2024,Vistara,Delhi,6,22,140,90,1.4
+355,17-03-2024,SpiceJet,Hyderabad,3,74,155,69,4.1
+356,02-04-2024,Air India,Chennai,133,43,225,68,1.7
+357,04-02-2024,SpiceJet,Bangalore,126,37,66,41,2.7
+358,23-02-2024,SpiceJet,Hyderabad,19,92,114,51,3.9
+359,04-03-2024,Air India,Hyderabad,27,34,127,20,4.8
+360,12-02-2024,Vistara,Bangalore,112,85,160,37,2.2
+361,18-03-2024,Air India,Hyderabad,80,45,151,60,2.2
+362,29-03-2024,Vistara,Chennai,62,83,146,55,4.3
+363,20-02-2024,SpiceJet,Delhi,144,51,201,89,1.7
+364,08-04-2024,IndiGo,Hyderabad,53,112,124,28,4.3
+365,11-04-2024,Vistara,Hyderabad,35,162,127,50,2
+366,20-01-2024,Vistara,Hyderabad,18,114,203,81,3.3
+367,09-03-2024,Vistara,Chennai,9,92,229,88,3.4
+368,27-04-2024,IndiGo,Delhi,63,168,220,65,1.7
+369,19-03-2024,IndiGo,Chennai,165,173,215,71,4.9
+370,12-02-2024,Vistara,Delhi,2,25,116,48,3
+371,07-03-2024,Air India,Hyderabad,95,100,168,84,1.6
+372,04-01-2024,Vistara,Delhi,75,106,71,34,4.3
+373,03-04-2024,Air India,Bangalore,79,87,166,46,3.1
+374,14-02-2024,Vistara,Delhi,112,178,165,60,1.3
+375,06-01-2024,IndiGo,Delhi,87,165,77,41,4.7
+376,04-04-2024,Air India,Chennai,44,141,90,62,3.2
+377,29-02-2024,Air India,Hyderabad,161,47,97,75,2.6
+378,04-04-2024,Air India,Hyderabad,151,109,149,20,3.8
+379,27-01-2024,SpiceJet,Delhi,147,26,187,43,2.5
+380,26-01-2024,Vistara,Delhi,67,171,175,87,4.9
+381,10-02-2024,Vistara,Chennai,100,150,79,64,2.4
+382,28-02-2024,Air India,Bangalore,157,151,71,37,2.3
+383,31-01-2024,SpiceJet,Delhi,46,95,227,38,3
+384,23-02-2024,Air India,Chennai,98,108,97,82,3.5
+385,29-03-2024,Air India,Chennai,42,125,123,37,1.7
+386,17-04-2024,Vistara,Chennai,13,91,52,82,1.5
+387,14-04-2024,Vistara,Chennai,129,167,176,72,3.7
+388,23-02-2024,Vistara,Hyderabad,42,21,194,23,4.2
+389,29-01-2024,SpiceJet,Delhi,70,57,187,56,1.7
+390,28-02-2024,Vistara,Chennai,130,28,196,34,2.1
+391,10-03-2024,SpiceJet,Chennai,10,112,189,47,5
+392,14-01-2024,Air India,Bangalore,8,115,117,64,4.4
+393,12-01-2024,Vistara,Delhi,60,53,238,64,4.4
+394,19-03-2024,Vistara,Mumbai,157,35,250,46,4.3
+395,13-04-2024,IndiGo,Chennai,89,136,121,88,1.7
+396,31-03-2024,SpiceJet,Bangalore,146,68,181,32,1.5
+397,06-04-2024,Vistara,Delhi,70,167,82,36,2
+398,01-04-2024,SpiceJet,Mumbai,173,100,175,38,3.3
+399,04-02-2024,Vistara,Hyderabad,115,19,212,31,2.6
+400,05-04-2024,SpiceJet,Bangalore,116,124,133,20,4.5
